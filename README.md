@@ -22,4 +22,7 @@
 - Ketik npm install / yarn install
 - Ketik php artisan migrate
 
+### Penulis
 
+- IlmuCoding.com
+- Wildan Fuady
